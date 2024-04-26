@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zephyr 2.0</string>
+    <string name="hello">Welcome</string>
+    <string name="battery">Battery Level</string>
+    <string name="height">Height (cm)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="gender">Gender (M/F)</string>
+    <string name="cals">Calories</string>
+    <string name="savebtn">toCSV</string>
+    <string name="start">Start</string>
+    <string name="hr">HR</string>
+    <string name="br">BR</string>
+    <string name="conf">HR conf</string>
+    <string name="worn">Worn</string>
+    <string name="activity">Activity</string>
+</resources>
