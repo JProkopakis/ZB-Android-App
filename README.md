@@ -6,3 +6,6 @@
 In order to reproduce this application, you need to obtain *BioHarnessBT.jar*, which is part of the Zephyr BioHarness<sup>TM</sup> Bluetooth SDK and implements all the classes and functions that make up the BioHarness<sup>TM</sup> BT Android API.
 
 Once you obtain it, you should add it to *app/libs/* directory, and then build the project. 
+
+This application also uses the [Highcharts Android](https://github.com/highcharts/highcharts-android) wrapper of HighchartsJS
+
